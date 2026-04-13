@@ -1,0 +1,35 @@
+{
+  "name": "tanstack-vuetify",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogwith1eye/tanstack-vuetify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogwith1eye/tanstack-vuetify/issues"
+  },
+  "homepage": "https://github.com/dogwith1eye/tanstack-vuetify#readme",
+  "dependencies": {
+    "@mdi/js": "^7.4.47",
+    "@tanstack/vue-router": "^1.168.9",
+    "@tanstack/vue-start": "^1.167.15",
+    "@vuetify/v0": "1.0.0-alpha.0",
+    "vue": "^3.5.32"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/vue": "^1.0.31",
+    "@vitejs/plugin-vue": "^6.0.5",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.8"
+  }
+}
